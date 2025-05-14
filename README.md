@@ -16,3 +16,23 @@ This model demonstrates that spatial geometry—specifically, Fibonacci scaling�
 ---
 
 ## 🗂 Repository Structure
+src/         → Python simulation scripts
+data/        → Coherence ratios, temperature series
+figures/     → 600 DPI figures (main + supplementary)
+notebooks/   → (Optional) Jupyter demos
+
+---
+
+## 📦 Citation
+
+If using this repository or data, please cite:
+
+> Demidont, A.C. (2024). *Tegmark’s Cat: Power-Law Quantum Coherence Preservation...* [Manuscript submitted to Entropy]
+
+DOI coming via Zenodo upon publication.
+
+---
+
+## 🧪 License
+
+This repository is released under the [MIT License](LICENSE) or [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (choose one).    
