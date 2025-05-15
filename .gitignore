@@ -1,3 +1,14 @@
+pico .gitignore
+# Ignore build artifacts and large output files
+*.zip
+*.json
+*.npz
+*.DS_Store
+.idea/
+__pycache__/
+simulation_results/
+pre_tegmark_acute_hiv_project_files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
